@@ -1,4 +1,4 @@
 streamlit
 numpy
 matplotlib
-mpl_toolkits
+mpl_toolkits.mplot3d
